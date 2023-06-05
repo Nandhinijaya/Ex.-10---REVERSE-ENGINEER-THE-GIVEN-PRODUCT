@@ -32,11 +32,16 @@
 
 ## Input:
 
+![EMPD](https://github.com/Nandhinijaya/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121998147/328aac48-f1f2-4b4d-9205-e96cfae48786)
+
+![2](https://github.com/Nandhinijaya/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121998147/7fda1dd8-56f6-4f7b-acab-fef8b04e7e9c)
+
+
 ### Output:
 
 
-### Name:
-### Register Number:
+### Name: E.NANDHINI
+### Register Number: 212222100030
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
